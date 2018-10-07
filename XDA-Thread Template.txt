@@ -29,9 +29,7 @@ Wipe Cache
 Reboot[/SIZE]
 Note : GApps only has to be flashed once whereas Magisk is to be flashed every time you Dirty Flash the ROM.
 
-[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/Feature.png[/IMG][/CENTER]
-[B]Superior Features:[/B]
-[LIST]
+[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/Features.png[/IMG]
 
 [HIDE][CODE][LIST]
 [U][B]STATUSBAR:[/B][/U]
@@ -74,9 +72,9 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Accent Color Manager.
 [*]Scramble pin on lockscreen.
 [*]lockscreen quick unlock.
-Lots more to come soon!..Stay Tuned!!![/HIDE][CENTER]
+Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 
-[CENTER][IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/Downloads.png[/IMG]
+[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/Downloads.png[/IMG]
 [INDENT][SIZE="3"]Download ROM[B]:
 [URL="https://sourceforge.net/projects/superioros/files/<device name>"]SuperiorOS[/URL][/SIZE][/B]
 
