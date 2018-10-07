@@ -118,7 +118,7 @@ Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 [SIZE="5"][B]Superior OS source[/URL][/B][/SIZE]
 [B][SIZE="3"][B][SIZE="4"][URL="https://github.com/SuperiorOS-Devices"]SuperiorOS-Device Sources[/URL][/SIZE][/B][/SIZE][/B]
 [IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/googleplus.png[/IMG]
-[B][URL="https://plus.google.com/communities/101137692192340076065"] Google Plus Community[/URL][/B]
+[B][URL="https://plus.google.com/communities/109206747517820828242"] Google Plus Community[/URL][/B]
 [IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/telegram.png[/IMG]
 [B][URL="http://t.me/superioros"]Telegram Group[/URL][/B]
 [B][URL="http://t.me/superior_os"]Telegram Channel[/URL][/B][/SIZE]
@@ -137,8 +137,7 @@ As soon as the problem occurs, take a logcat!
 [B][U]Contributors[/U][/B]
 *Maintainer Name*
 [B]Source Code:[/B] [URL="https://github.com/SuperiorOS"]SuperiorOS[/URL]
-[B]Kernel Source:[/B] [URL="*source link of kernel used*"]*Name of kernel*[/URL]
-[B]Device Tree Source:[/B]*Link of device tree* 
+[B]Kernel Source:[/B] [URL="*source link of kernel used*"]*Name of kernel*[/URL] 
 
 [B]ROM OS Version:[/B] 9.0.x
 [B]ROM Kernel:[/B] Linux 3.x
