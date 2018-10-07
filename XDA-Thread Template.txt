@@ -1,0 +1,154 @@
+[CENTER][IMG="Superior"]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/banner.png[/IMG]
+
+[SIZE="5"][B][FONT="Trebuchet MS"]About US:[/B][/SIZE]
+Superior OS is a AOSP based custom ROM with some minimal features to fullfill the users demands nowadays.[/FONT]
+
+[IMG="Disclaimer"]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/disclaimer.png[/IMG]
+[CODE]
+ * Your warranty is now void.
+ * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
+ * You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.
+ [/CODE]
+[SIZE="3"]"This is a user friendly thread, all your suggestions are important to us and will be taken into consideration.."[/SIZE]
+
+[IMG="Procedure"]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/procedure.png[/IMG]
+
+[SIZE="4"][color="#e34036"][B]CLEAN FLASH :[/B][/SIZE][/COLOR]
+[SIZE="4"]Download the latest build and GApps
+Reboot to recovery 
+Take Backup (Not Necessary)
+Wipe System, Data, Cache , Dalvik
+Flash the latest build and GApps
+Reboot[/SIZE]
+
+[SIZE="4"][color="#e34036"][B]DIRTY FLASH :[/B][/SIZE][/COLOR]
+[SIZE="4"]Download the latest build 
+Reboot to recovery
+Flash the latest build
+Wipe Cache
+Reboot[/SIZE]
+Note : GApps only has to be flashed once whereas Magisk is to be flashed every time you Dirty Flash the ROM.
+
+[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/feature.png[/IMG][/CENTER]
+[HIDE]
+[B]Superior Features:[/B]
+[LIST]
+
+[HIDE][CODE][LIST]
+[U][B]STATUSBAR:[/B][/U]
+[*]Clock and Date.
+[*]Statusbar icons.
+[*]Traffic indicators.
+[*]Show data disabled icon.
+[*]4G Icon Instead of LTE.
+
+[U][B]Navigation Bar:[/B][/U]
+[*]Enable/Disable Navbar.
+
+[U][B]QUICK SETTINGS:[/B][/U]
+[*]Tiles track accent color toogle.
+[*]Quick pulldown.
+[*]Rows and columns tweaks.
+
+[U][B]RECENTS:[/B][/U]
+[*]Permanately Hide apps.
+
+[U][B]LOCKSCREEN:[/B][/U]
+[*]Double-tap to sleep.
+[*]Lockscreen Tuner.
+[*]Charging info.
+[*]Lockscreen Visualizer.
+[*]Face auto unlock.
+[*]Fingerprint Authentication Vibration.
+
+[U][B]BUTTONS:[/B][/U]
+[*]H/W keys customisation.
+
+[U][B]NOTIFICATIONS:[/B][/U]
+[*]Headsup Customisations.
+[*]Incall Vibrations.
+
+[U][B]MISC:[/B][/U]
+[*]Three Finger Screenshot.
+
+[U][B]Others:[/B][/U]
+[*]Accent Color Manager.
+[*]Scramble pin on lockscreen.
+[*]lockscreen quick unlock.
+Lots more to come soon!..Stay Tuned!!![/HIDE]
+
+[CENTER][IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/downloads.png[/IMG]
+[INDENT][SIZE="3"]Download ROM[B]:
+[URL="https://sourceforge.net/projects/superioros/files/<device name>"]SuperiorOS[/URL][/SIZE][/B]
+
+[SIZE="3"]Download [B]Gapps:[/B]
+[B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE][/INDENT]
+[CENTER]Note : Nano and above Gapps are recommended.[/CENTER]
+
+[IMG="Credits"]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/credits.png[/IMG]
+[INDENT][SIZE="4"][B]SuperiorOS Core Team
+[FONT="Comic Sans MS"]AOSP[/FONT]
+[FONT="Comic Sans MS"]Lineage OS[/FONT]
+[FONT="Comic Sans MS"]DotOS[/FONT]
+[FONT="Comic Sans MS"]Nitrogen OS[/FONT]
+[FONT="Comic Sans MS"]Syberia OS[/FONT] 
+[FONT="Comic Sans MS"]Pixys OS[/FONT]
+[FONT="Comic Sans MS"]ArrowOS[/FONT]
+[FONT="Comic Sans MS"]Dirty Unicorns [/FONT]And all other open source Devs/Teams.[/B][/SIZE][/INDENT]
+
+[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/team.png[/IMG][SIZE="4"]
+
+[B][FONT="Comic Sans MS"]Sipun Ku Mahanta[/URL][/FONT][/B] - Founder/Lead Developer
+[B][FONT="Comic Sans MS"]Jayant Deshmukh[/URL][/FONT][/B] - Core Team/Lead Developer
+[B][FONT="Comic Sans MS"]Pavan Patel[/URL][/FONT][/B]  - Core Team/Designer
+[B][FONT="Comic Sans MS"]Titus Joseph[/URL][/FONT][/B]  - Designer[/SIZE]
+
+[SIZE="4"][B][U]Special thanks:[/U][/B]
+[B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B]  - Banner Designer(About Superior Section)[/SIZE]
+
+[U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U]
+
+[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/donate.png[/IMG]
+[URL="https://www.paypal.me/Sipun"][IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/cash.png[/IMG][/URL]
+[SIZE="3"][B][URL="https://www.paypal.me/Sipun"][COLOR=#3b85ed][FONT="Comic Sans MS"]Loved the ROM? Want to help it imporove? Gift us with some credits![/FONT][/COLOR][/URL][/B][/SIZE]
+
+[IMG="Source"]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/source.png[/IMG]
+[SIZE="4"][URL="https://github.com/SuperiorOS"]
+[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/github.png[/IMG]
+[SIZE="5"][B]Superior OS source[/URL][/B][/SIZE]
+[B][SIZE="3"][B][SIZE="4"][URL="https://github.com/SuperiorOS-Devices"]SuperiorOS-Device Sources[/URL][/SIZE][/B][/SIZE][/B]
+[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/O%20img%20/g%2B.png[/IMG]
+[B][URL="https://plus.google.com/communities/101137692192340076065"] Google Plus Community[/URL][/B]
+[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/O%20img%20/telegram.png[/IMG]
+[B][URL="http://t.me/superioros"]Telegram Group[/URL][/B]
+[B][URL="http://t.me/superior_os"]Telegram Channel[/URL][/B][/SIZE]
+
+[U][B][SIZE="4"][FONT="Arial Black"][COLOR="#e34036"]REPORTING BUGS[/COLOR][/FONT]![/SIZE][/B][/U]
+As soon as the problem occurs, take a logcat! 
+[URL="http://telegra.ph/Logcats-are-important-03-01"]for more READ THIS[/URL][/CENTER]
+
+[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
+[SIZE="3"][B]SuperiorOS, ROM for the *Your Device*[/B][/SIZE]
+[B]SuperiorOS Version Name:[/B] Alpha
+[B]Device:[/B] *Your Device
+[B]Maintainer:[/B] *Your Name*
+[B]Build Type:[/B] *official or unofficial*
+
+[B][U]Contributors[/U][/B]
+*Maintainer Name*
+[B]Source Code:[/B] [URL="https://github.com/SuperiorOS"]SuperiorOS[/URL]
+[B]Kernel Source:[/B] [URL="*source link of kernel used*"]*Name of kernel*[/URL]
+[B]Device Tree Source:[/B]*Link of device tree* 
+
+[B]ROM OS Version:[/B] 9.0.x
+[B]ROM Kernel:[/B] Linux 3.x
+[B]ROM Firmware Required:[/B] Must be on Latest Firmware
+[B]Based On:[/B] AOSP
+
+[B][U]Version Information[/U][/B]
+[B]Status:[/B] Stable
+[B]Current Stable Version:[/B] Alpha
+[B]Stable Release Date:[/B] 20xx-xx-xx
+
+[B]Created[/B] 20xx-xx-xx
+[B]Last Updated[/B] 20xx-xx-xx
