@@ -3,7 +3,7 @@
 [SIZE="5"][B][FONT="Trebuchet MS"]About US:[/B][/SIZE]
 Superior OS is a AOSP based custom ROM with some minimal features to fullfill the users demands nowadays.[/FONT]
 
-[IMG="Disclaimer"]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/disclaimer.png[/IMG]
+[IMG="Disclaimer"]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/Disclaimer.png[/IMG]
 [CODE]
  * Your warranty is now void.
  * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
@@ -11,7 +11,7 @@ Superior OS is a AOSP based custom ROM with some minimal features to fullfill th
  [/CODE]
 [SIZE="3"]"This is a user friendly thread, all your suggestions are important to us and will be taken into consideration.."[/SIZE]
 
-[IMG="Procedure"]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/procedure.png[/IMG]
+[IMG="Procedure"]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/Procedure.png[/IMG]
 
 [SIZE="4"][color="#e34036"][B]CLEAN FLASH :[/B][/SIZE][/COLOR]
 [SIZE="4"]Download the latest build and GApps
@@ -29,8 +29,7 @@ Wipe Cache
 Reboot[/SIZE]
 Note : GApps only has to be flashed once whereas Magisk is to be flashed every time you Dirty Flash the ROM.
 
-[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/feature.png[/IMG][/CENTER]
-[HIDE]
+[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/Feature.png[/IMG][/CENTER]
 [B]Superior Features:[/B]
 [LIST]
 
@@ -75,9 +74,9 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Accent Color Manager.
 [*]Scramble pin on lockscreen.
 [*]lockscreen quick unlock.
-Lots more to come soon!..Stay Tuned!!![/HIDE]
+Lots more to come soon!..Stay Tuned!!![/HIDE][CENTER]
 
-[CENTER][IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/downloads.png[/IMG]
+[CENTER][IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/Downloads.png[/IMG]
 [INDENT][SIZE="3"]Download ROM[B]:
 [URL="https://sourceforge.net/projects/superioros/files/<device name>"]SuperiorOS[/URL][/SIZE][/B]
 
@@ -85,7 +84,7 @@ Lots more to come soon!..Stay Tuned!!![/HIDE]
 [B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE][/INDENT]
 [CENTER]Note : Nano and above Gapps are recommended.[/CENTER]
 
-[IMG="Credits"]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/credits.png[/IMG]
+[IMG="Credits"]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/Credits.png[/IMG]
 [INDENT][SIZE="4"][B]SuperiorOS Core Team
 [FONT="Comic Sans MS"]AOSP[/FONT]
 [FONT="Comic Sans MS"]Lineage OS[/FONT]
@@ -96,30 +95,30 @@ Lots more to come soon!..Stay Tuned!!![/HIDE]
 [FONT="Comic Sans MS"]ArrowOS[/FONT]
 [FONT="Comic Sans MS"]Dirty Unicorns [/FONT]And all other open source Devs/Teams.[/B][/SIZE][/INDENT]
 
-[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/team.png[/IMG][SIZE="4"]
+[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/Team.png[/IMG][SIZE="4"]
 
-[B][FONT="Comic Sans MS"]Sipun Ku Mahanta[/URL][/FONT][/B] - Founder/Lead Developer
-[B][FONT="Comic Sans MS"]Jayant Deshmukh[/URL][/FONT][/B] - Core Team/Lead Developer
-[B][FONT="Comic Sans MS"]Pavan Patel[/URL][/FONT][/B]  - Core Team/Designer
-[B][FONT="Comic Sans MS"]Titus Joseph[/URL][/FONT][/B]  - Designer[/SIZE]
+[B][FONT="Comic Sans MS"]Sipun Ku Mahanta[/FONT][/B] - Founder/Lead Developer
+[B][FONT="Comic Sans MS"]Jayant Deshmukh[/FONT][/B] - Core Team/Lead Developer
+[B][FONT="Comic Sans MS"]Pavan Patel[/FONT][/B]  - Core Team/Designer
+[B][FONT="Comic Sans MS"]Titus Joseph[/FONT][/B]  - Designer[/SIZE]
 
 [SIZE="4"][B][U]Special thanks:[/U][/B]
 [B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B]  - Banner Designer(About Superior Section)[/SIZE]
 
 [U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U]
 
-[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/donate.png[/IMG]
+[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/Donate.png[/IMG]
 [URL="https://www.paypal.me/Sipun"][IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/cash.png[/IMG][/URL]
 [SIZE="3"][B][URL="https://www.paypal.me/Sipun"][COLOR=#3b85ed][FONT="Comic Sans MS"]Loved the ROM? Want to help it imporove? Gift us with some credits![/FONT][/COLOR][/URL][/B][/SIZE]
 
-[IMG="Source"]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/source.png[/IMG]
+[IMG="Source"]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/Source.png[/IMG]
 [SIZE="4"][URL="https://github.com/SuperiorOS"]
 [IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/github.png[/IMG]
 [SIZE="5"][B]Superior OS source[/URL][/B][/SIZE]
 [B][SIZE="3"][B][SIZE="4"][URL="https://github.com/SuperiorOS-Devices"]SuperiorOS-Device Sources[/URL][/SIZE][/B][/SIZE][/B]
-[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/O%20img%20/g%2B.png[/IMG]
+[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/googleplus.png[/IMG]
 [B][URL="https://plus.google.com/communities/101137692192340076065"] Google Plus Community[/URL][/B]
-[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/O%20img%20/telegram.png[/IMG]
+[IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/telegram.png[/IMG]
 [B][URL="http://t.me/superioros"]Telegram Group[/URL][/B]
 [B][URL="http://t.me/superior_os"]Telegram Channel[/URL][/B][/SIZE]
 
