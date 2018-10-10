@@ -54,7 +54,6 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Double-tap to sleep.
 [*]Lockscreen Tuner.
 [*]Charging info.
-[*]Lockscreen Visualizer.
 [*]Face auto unlock.
 [*]Fingerprint Authentication Vibration.
 
@@ -72,6 +71,7 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Accent Color Manager.
 [*]Scramble pin on lockscreen.
 [*]lockscreen quick unlock.
+[*]Call Recording.
 Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 
 [IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/Downloads.png[/IMG]
@@ -129,7 +129,7 @@ As soon as the problem occurs, take a logcat!
 
 [B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
 [SIZE="3"][B]SuperiorOS, ROM for the *Your Device*[/B][/SIZE]
-[B]SuperiorOS Version Name:[/B] Alpha
+[B]SuperiorOS Version Name:[/B] Lightining
 [B]Device:[/B] *Your Device
 [B]Maintainer:[/B] *Your Name*
 [B]Build Type:[/B] *official or unofficial*
@@ -140,13 +140,13 @@ As soon as the problem occurs, take a logcat!
 [B]Kernel Source:[/B] [URL="*source link of kernel used*"]*Name of kernel*[/URL] 
 
 [B]ROM OS Version:[/B] 9.0.x
-[B]ROM Kernel:[/B] Linux 3.x
+[B]ROM Kernel:[/B] Linux x.x
 [B]ROM Firmware Required:[/B] Must be on Latest Firmware
 [B]Based On:[/B] AOSP
 
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] Stable
-[B]Current Stable Version:[/B] Alpha
+[B]Current Stable Version:[/B] Lightining
 [B]Stable Release Date:[/B] 20xx-xx-xx
 
 [B]Created[/B] 20xx-xx-xx
