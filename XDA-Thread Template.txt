@@ -38,6 +38,7 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Traffic indicators.
 [*]Show data disabled icon.
 [*]4G Icon Instead of LTE.
+[*]Battery percent styles.
 
 [U][B]Navigation Bar:[/B][/U]
 [*]Enable/Disable Navbar.
@@ -46,6 +47,8 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Tiles track accent color toogle.
 [*]Quick pulldown.
 [*]Rows and columns tweaks.
+[*]QS panel opacity,
+[*]QS brightness slider position.
 
 [U][B]RECENTS:[/B][/U]
 [*]Permanately Hide apps.
@@ -56,6 +59,8 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Charging info.
 [*]Face auto unlock.
 [*]Fingerprint Authentication Vibration.
+[*]Lockscreen Clock Widget Fonts.
+[*]Lockscreen Media Art.
 
 [U][B]BUTTONS:[/B][/U]
 [*]H/W keys customisation.
@@ -63,6 +68,7 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [U][B]NOTIFICATIONS:[/B][/U]
 [*]Headsup Customisations.
 [*]Incall Vibrations.
+[*]Battery light customization.
 
 [U][B]MISC:[/B][/U]
 [*]Three Finger Screenshot.
@@ -72,6 +78,7 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Scramble pin on lockscreen.
 [*]lockscreen quick unlock.
 [*]Call Recording.
+[*]Forward port CM Screen Security settings (4x4, 5x5, 6x6).
 Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 
 [IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/Downloads.png[/IMG]
