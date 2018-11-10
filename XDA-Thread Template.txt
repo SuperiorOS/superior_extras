@@ -39,6 +39,7 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Show data disabled icon.
 [*]4G Icon Instead of LTE.
 [*]Battery percent styles.
+[*]VoLTE Toggle.
 
 [U][B]Navigation Bar:[/B][/U]
 [*]Enable/Disable Navbar.
@@ -52,6 +53,7 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 
 [U][B]RECENTS:[/B][/U]
 [*]Permanately Hide apps.
+[*]Choose Recent Styles.
 
 [U][B]LOCKSCREEN:[/B][/U]
 [*]Double-tap to sleep.
@@ -61,6 +63,8 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Fingerprint Authentication Vibration.
 [*]Lockscreen Clock Widget Fonts.
 [*]Lockscreen Media Art.
+[*]Lockscreen Date Font Styles.
+[*]Lockscreen Visualizer.
 
 [U][B]BUTTONS:[/B][/U]
 [*]H/W keys customisation.
@@ -69,9 +73,12 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Headsup Customisations.
 [*]Incall Vibrations.
 [*]Battery light customization.
+[*]Blink Flashlight on Call.
 
 [U][B]MISC:[/B][/U]
 [*]Three Finger Screenshot.
+[*]Volume rocker music control.
+[*]Toast App Icon.
 
 [U][B]Others:[/B][/U]
 [*]Accent Color Manager.
@@ -136,7 +143,7 @@ As soon as the problem occurs, take a logcat!
 
 [B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
 [SIZE="3"][B]SuperiorOS, ROM for the *Your Device*[/B][/SIZE]
-[B]SuperiorOS Version Name:[/B] Lightning
+[B]SuperiorOS Version Name:[/B] Meteor
 [B]Device:[/B] *Your Device
 [B]Maintainer:[/B] *Your Name*
 [B]Build Type:[/B] *official or unofficial*
@@ -153,7 +160,7 @@ As soon as the problem occurs, take a logcat!
 
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] Stable
-[B]Current Stable Version:[/B] Lightning
+[B]Current Stable Version:[/B] Meteor
 [B]Stable Release Date:[/B] 20xx-xx-xx
 
 [B]Created[/B] 20xx-xx-xx
