@@ -18,7 +18,7 @@ Superior OS is a AOSP based custom ROM with some minimal features to fullfill th
 Reboot to recovery 
 Take Backup (Not Necessary)
 Wipe System, Data, Cache , Dalvik
-Flash the latest build and GApps
+Flash the latest build
 Reboot[/SIZE]
 
 [SIZE="4"][color="#e34036"][B]DIRTY FLASH :[/B][/SIZE][/COLOR]
@@ -40,6 +40,7 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]4G Icon Instead of LTE.
 [*]Battery percent styles.
 [*]VoLTE Toggle.
+[*]Option to Display Data Disabled Indicator Icon.
 
 [U][B]Navigation Bar:[/B][/U]
 [*]Enable/Disable Navbar.
@@ -65,6 +66,7 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Lockscreen Media Art.
 [*]Lockscreen Date Font Styles.
 [*]Lockscreen Visualizer.
+[*]Lockscreen Weather like Pixels.
 
 [U][B]BUTTONS:[/B][/U]
 [*]H/W keys customisation.
@@ -79,6 +81,7 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Three Finger Screenshot.
 [*]Volume rocker music control.
 [*]Toast App Icon.
+[*] AppOps.
 
 [U][B]Others:[/B][/U]
 [*]Accent Color Manager.
@@ -86,6 +89,8 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]lockscreen quick unlock.
 [*]Call Recording.
 [*]Forward port CM Screen Security settings (4x4, 5x5, 6x6).
+[*]Lockscreen Charging animation.
+[*]Lockscreen Powermenu Visibility .
 Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 
 [IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/Downloads.png[/IMG]
@@ -93,8 +98,7 @@ Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 [URL="https://sourceforge.net/projects/superioros/files/<device name>"]SuperiorOS[/URL][/SIZE][/B]
 
 [SIZE="3"]Download [B]Gapps:[/B]
-[B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE][/INDENT]
-[CENTER]Note : Nano and above Gapps are recommended.[/CENTER]
+[B]No Need .. Gapps Prebuilt[/B][/SIZE][/INDENT]
 
 [IMG="Credits"]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/Credits.png[/IMG]
 [INDENT][SIZE="4"][B]SuperiorOS Core Team
