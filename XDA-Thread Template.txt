@@ -44,7 +44,7 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 
 [U][B]Navigation Bar:[/B][/U]
 [*]Enable/Disable Navbar.
-[*]Navbar Pulse.
+[*]Navbar Editor.
 
 [U][B]QUICK SETTINGS:[/B][/U]
 [*]Tiles track accent color toogle.
@@ -96,7 +96,9 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Lockscreen Charging animation.
 [*]Lockscreen Powermenu Visibility .
 [*]OP Gestures.
-[*]Doubletap or longpress power to toggle flashlight
+[*]Doubletap or longpress power to toggle flashlight.
+[*]Rootless Substratum support.
+[*]DU Font Engine.
 Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 
 [IMG]https://github.com/SuperiorOS/superior_extras/blob/master/destructor/Downloads.png?raw=true[/IMG]
@@ -123,6 +125,7 @@ Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 [IMG]https://github.com/SuperiorOS/superior_extras/blob/master/destructor/Team.png?raw=true[/IMG]
 [SIZE="4"][B][FONT="Comic Sans MS"]Sipun Ku Mahanta[/FONT][/B] - Founder/Lead Developer
 [B][FONT="Comic Sans MS"]Jayant Deshmukh[/FONT][/B] - Core Team/Lead Developer
+[B][FONT="Comic Sans MS"]Swapnil Soni[/FONT][/B]  - Peru Designer
 [B][FONT="Comic Sans MS"]Pavan Patel[/FONT][/B]  - Core Team/Designer
 [B][FONT="Comic Sans MS"]Titus Joseph[/FONT][/B]  - Designer
 [B][FONT="Comic Sans MS"]Saurabh Sharma[/FONT][/B]  - Web Developer
