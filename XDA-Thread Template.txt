@@ -41,10 +41,11 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Battery percent styles.
 [*]VoLTE Toggle.
 [*]Option to Display Data Disabled Indicator Icon.
+[*]BatteryBar.
 
 [U][B]Navigation Bar:[/B][/U]
 [*]Enable/Disable Navbar.
-[*]Navbar Editor.
+[*]Smartnav.
 
 [U][B]QUICK SETTINGS:[/B][/U]
 [*]Tiles track accent color toogle.
@@ -54,10 +55,13 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]QS brightness slider position.
 [*]QS Header Styles.
 [*]QS Tile Style.
+[*]Running services icon toggle.
 
 [U][B]RECENTS:[/B][/U]
 [*]Permanately Hide apps.
 [*]Choose Recent Styles.
+[*]Stock Recents/Overview icon pack support.
+[*]Slim Recent.
 
 [U][B]LOCKSCREEN:[/B][/U]
 [*]Double-tap to sleep.
@@ -113,19 +117,22 @@ Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 [FONT="Comic Sans MS"]AOSP[/FONT]
 [FONT="Comic Sans MS"]Lineage OS[/FONT]
 [FONT="Comic Sans MS"]DotOS[/FONT]
-[FONT="Comic Sans MS"]Nitrogen OS[/FONT]
-[FONT="Comic Sans MS"]AOSP Extended[/FONT]
-[FONT="Comic Sans MS"]Pixel Experience[/FONT]
-[FONT="Comic Sans MS"]ABC[/FONT]
-[FONT="Comic Sans MS"]Syberia OS[/FONT] 
+[FONT="Comic Sans MS"]PixelExperience[/FONT]
+[FONT="Comic Sans MS"]DirtyUnicorns[/FONT]
+[FONT="Comic Sans MS"]AospExtended[/FONT]
+[FONT="Comic Sans MS"]Syberia OS[/FONT]
+[FONT="Comic Sans MS"]Nitrogen OS[/FONT] 
 [FONT="Comic Sans MS"]Pixys OS[/FONT]
 [FONT="Comic Sans MS"]ArrowOS[/FONT]
-[FONT="Comic Sans MS"]Dirty Unicorns [/FONT]And all other open source Devs/Teams.[/B][/SIZE]
+[FONT="Comic Sans MS"]MSM-Xtended[/FONT]
+[FONT="Comic Sans MS"]HavocOS[/FONT]
+[FONT="Comic Sans MS"]BootleggersROM[/FONT]
+[FONT="Comic Sans MS"]ABC[/FONT][/B]/SIZE]
 
 [IMG]https://github.com/SuperiorOS/superior_extras/blob/master/destructor/Team.png?raw=true[/IMG]
 [SIZE="4"][B][FONT="Comic Sans MS"]Sipun Ku Mahanta[/FONT][/B] - Founder/Lead Developer
 [B][FONT="Comic Sans MS"]Jayant Deshmukh[/FONT][/B] - Core Team/Lead Developer
-[B][FONT="Comic Sans MS"]Swapnil Soni[/FONT][/B]  - Peru Designer
+[B][FONT="Comic Sans MS"]Swapnil Soni[/FONT][/B]  - Peru Developer / Web Developer.
 [B][FONT="Comic Sans MS"]Pavan Patel[/FONT][/B]  - Core Team/Designer
 [B][FONT="Comic Sans MS"]Titus Joseph[/FONT][/B]  - Designer
 [B][FONT="Comic Sans MS"]Saurabh Sharma[/FONT][/B]  - Web Developer
