@@ -127,7 +127,7 @@ Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 [FONT="Comic Sans MS"]MSM-Xtended[/FONT]
 [FONT="Comic Sans MS"]HavocOS[/FONT]
 [FONT="Comic Sans MS"]BootleggersROM[/FONT]
-[FONT="Comic Sans MS"]ABC[/FONT][/B]/SIZE]
+[FONT="Comic Sans MS"]ABC[/FONT][/B][/SIZE]
 
 [IMG]https://github.com/SuperiorOS/superior_extras/blob/master/destructor/Team.png?raw=true[/IMG]
 [SIZE="4"][B][FONT="Comic Sans MS"]Sipun Ku Mahanta[/FONT][/B] - Founder/Lead Developer
