@@ -46,6 +46,8 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [U][B]Navigation Bar:[/B][/U]
 [*]Enable/Disable Navbar.
 [*]Smartnav.
+[*]Navbar Pulse.
+[*]Pixel navbar animation.
 
 [U][B]QUICK SETTINGS:[/B][/U]
 [*]Tiles track accent color toogle.
@@ -56,6 +58,13 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]QS Header Styles.
 [*]QS Tile Style.
 [*]Running services icon toggle.
+[*]QS brightness buttons options
+
+[U][B]Animations:[/B][/U]
+[*]Toast Animations.
+[*]AOKP custom system animations.
+[*]Listanimation.
+[*]Screen off animations.
 
 [U][B]RECENTS:[/B][/U]
 [*]Permanately Hide apps.
@@ -74,9 +83,12 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Lockscreen Date Font Styles.
 [*]Lockscreen Visualizer.
 [*]Lockscreen Weather like Pixels.
+[*]Unlock keystore with fingerprint after reboot
 
 [U][B]BUTTONS:[/B][/U]
 [*]H/W keys customisation.
+[*]Volume key cursor control.
+[*]Volume rocker  wake.
 
 [U][B]NOTIFICATIONS:[/B][/U]
 [*]Headsup Customisations.
@@ -103,6 +115,8 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Doubletap or longpress power to toggle flashlight.
 [*]Rootless Substratum support.
 [*]DU Font Engine.
+[*]ability to restrict app data/wifi usage.
+
 Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 
 [IMG]https://github.com/SuperiorOS/superior_extras/blob/master/destructor/Downloads.png?raw=true[/IMG]
