@@ -1,10 +1,10 @@
 [CENTER]
-[IMG]https://github.com/SuperiorOS/superior_extras/blob/master/logo.png?raw=true[/IMG]
+[IMG]https://github.com/SuperiorOS/superior_extras/blob/master/nemesis/logo.png?raw=true[/IMG]
 
 [SIZE="5"][B][FONT="Trebuchet MS"]About US:[/B][/SIZE]
 Superior OS is a AOSP based custom ROM with some minimal features to fullfill the users demands nowadays.[/FONT]
 
-[IMG]https://github.com/SuperiorOS/superior_extras/blob/master/destructor/Disclaimer.png?raw=true[/IMG]
+[IMG]https://github.com/SuperiorOS/superior_extras/blob/master/nemesis/Disclaimer.png?raw=true[/IMG]
 [CODE]
  * Your warranty is now void.
  * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
@@ -12,7 +12,7 @@ Superior OS is a AOSP based custom ROM with some minimal features to fullfill th
  [/CODE]
 [SIZE="3"]"This is a user friendly thread, all your suggestions are important to us and will be taken into consideration.."[/SIZE]
 
-[IMG]https://github.com/SuperiorOS/superior_extras/blob/master/destructor/Procedure.png?raw=true[/IMG]
+[IMG]https://github.com/SuperiorOS/superior_extras/blob/master/nemesis/Procedure.png?raw=true[/IMG]
 
 [SIZE="4"][color="#e34036"][B]CLEAN FLASH :[/B][/SIZE][/COLOR]
 [SIZE="4"]Download the latest build and GApps
@@ -30,7 +30,7 @@ Wipe Cache
 Reboot[/SIZE]
 Note : GApps only has to be flashed once whereas Magisk is to be flashed every time you Dirty Flash the ROM.
 
-[IMG]https://github.com/SuperiorOS/superior_extras/blob/master/destructor/Features.png?raw=true[/IMG]
+[IMG]https://github.com/SuperiorOS/superior_extras/blob/master/nemesis/Features.png?raw=true[/IMG]
 [HIDE][CODE][LIST]
 [U][B]STATUSBAR:[/B][/U]
 [*]Clock and Date.
@@ -83,10 +83,13 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Lockscreen Date Font Styles.
 [*]Lockscreen Visualizer.
 [*]Lockscreen Weather like Pixels.
-[*]Unlock keystore with fingerprint after reboot
+[*]Unlock keystore with fingerprint after reboot,
+[*]Lockscreen Clock style.
+[*]Lockscreen Font sizes.
 
 [U][B]BUTTONS:[/B][/U]
 [*]H/W keys customisation.
+[*]H/W buttons backlight customisations.
 [*]Volume key cursor control.
 [*]Volume rocker  wake.
 
@@ -119,14 +122,14 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 
 Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 
-[IMG]https://github.com/SuperiorOS/superior_extras/blob/master/destructor/Downloads.png?raw=true[/IMG]
+[IMG]https://github.com/SuperiorOS/superior_extras/blob/master/nemesis/Downloads.png?raw=true[/IMG]
 [SIZE="3"]Download ROM[B]:[URL="https://sourceforge.net/projects/superioros/files/<device name>"]SuperiorOS[/URL][/SIZE][/B]
 
 [SIZE="3"]Download [B]Gapps:[/B]
 [B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE]
 [CENTER]Note : Nano and above Gapps are recommended.[/CENTER]
 
-[IMG]https://github.com/SuperiorOS/superior_extras/blob/master/destructor/Credits.png?raw=true[/IMG]
+[IMG]https://github.com/SuperiorOS/superior_extras/blob/master/nemesis/Credits.png?raw=true[/IMG]
 [SIZE="4"][B]SuperiorOS Core Team
 [FONT="Comic Sans MS"]AOSP[/FONT]
 [FONT="Comic Sans MS"]Lineage OS[/FONT]
@@ -143,24 +146,23 @@ Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 [FONT="Comic Sans MS"]BootleggersROM[/FONT]
 [FONT="Comic Sans MS"]ABC[/FONT][/B][/SIZE]
 
-[IMG]https://github.com/SuperiorOS/superior_extras/blob/master/destructor/Team.png?raw=true[/IMG]
+[IMG]https://github.com/SuperiorOS/superior_extras/blob/master/nemesis/Team.png?raw=true[/IMG]
 [SIZE="4"][B][FONT="Comic Sans MS"]Sipun Ku Mahanta[/FONT][/B] - Founder/Lead Developer
 [B][FONT="Comic Sans MS"]Jayant Deshmukh[/FONT][/B] - Core Team/Lead Developer
-[B][FONT="Comic Sans MS"]Swapnil Soni[/FONT][/B]  - Peru Developer / Web Developer.
 [B][FONT="Comic Sans MS"]Pavan Patel[/FONT][/B]  - Core Team/Designer
 [B][FONT="Comic Sans MS"]Titus Joseph[/FONT][/B]  - Designer
-[B][FONT="Comic Sans MS"]Saurabh Sharma[/FONT][/B]  - Web Developer
+[B][FONT="Comic Sans MS"]Swapnil Soni[/FONT][/B]  - Web Developer.
 
 [B][U]Special thanks:[/U][/B]
 [B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B]  - Banner Designer(About Superior Section)[/SIZE]
 
 [U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U]
 
-[IMG]https://github.com/SuperiorOS/superior_extras/blob/master/destructor/Donate.png?raw=true[/IMG]
+[IMG]https://github.com/SuperiorOS/superior_extras/blob/master/nemesis/Donate.png?raw=true[/IMG]
 [URL="https://www.paypal.me/Sipun"][IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/cash.png[/IMG][/URL]
 [SIZE="3"][B][URL="https://www.paypal.me/Sipun"][COLOR=#3b85ed][FONT="Comic Sans MS"]Loved the ROM? Want to help it imporove? Gift us with some credits![/FONT][/COLOR][/URL][/B][/SIZE]
 
-[IMG]https://github.com/SuperiorOS/superior_extras/blob/master/destructor/Source.png?raw=true[/IMG]
+[IMG]https://github.com/SuperiorOS/superior_extras/blob/master/nemesis/Source.png?raw=true[/IMG]
 
 [SIZE="4"][URL="https://github.com/SuperiorOS"]
 [IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/github.png[/IMG]
