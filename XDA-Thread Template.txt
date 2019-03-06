@@ -180,7 +180,7 @@ As soon as the problem occurs, take a logcat!
 
 [B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
 [SIZE="3"][B]SuperiorOS, ROM for the *Your Device*[/B][/SIZE]
-[B]SuperiorOS Version Name:[/B] Destructor
+[B]SuperiorOS Version Name:[/B] Nemesis
 [B]Device:[/B] *Your Device
 [B]Maintainer:[/B] *Your Name*
 [B]Build Type:[/B] *official or unofficial*
@@ -197,7 +197,7 @@ As soon as the problem occurs, take a logcat!
 
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] Stable
-[B]Current Stable Version:[/B] Destructor
+[B]Current Stable Version:[/B] Nemesis
 [B]Stable Release Date:[/B] 20xx-xx-xx
 
 [B]Created[/B] 20xx-xx-xx
