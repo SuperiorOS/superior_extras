@@ -48,12 +48,12 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Smartnav.
 [*]Navbar Pulse.
 [*]Pixel navbar animation.
+[*]Navbar invert layout.
 
 [U][B]QUICK SETTINGS:[/B][/U]
 [*]Tiles track accent color toogle.
 [*]Quick pulldown.
 [*]Rows and columns tweaks.
-[*]QS panel opacity,
 [*]QS brightness slider position.
 [*]QS Header Styles.
 [*]QS Tile Style.
@@ -69,7 +69,6 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [U][B]RECENTS:[/B][/U]
 [*]Permanately Hide apps.
 [*]Choose Recent Styles.
-[*]Stock Recents/Overview icon pack support.
 [*]Slim Recent.
 
 [U][B]LOCKSCREEN:[/B][/U]
@@ -116,9 +115,9 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Lockscreen Powermenu Visibility .
 [*]OP Gestures.
 [*]Doubletap or longpress power to toggle flashlight.
-[*]Rootless Substratum support.
 [*]DU Font Engine.
-[*]ability to restrict app data/wifi usage.
+[*]Ability to restrict app data/wifi usage.
+[*]Full Nav gesture.
 
 Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 
