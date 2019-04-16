@@ -82,9 +82,10 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Lockscreen Date Font Styles.
 [*]Lockscreen Visualizer.
 [*]Lockscreen Weather like Pixels.
-[*]Unlock keystore with fingerprint after reboot,
+[*]Unlock keystore with fingerprint after reboot.
 [*]Lockscreen Clock style.
 [*]Lockscreen Font sizes.
+[*]Lockscreen cover art filter.
 
 [U][B]BUTTONS:[/B][/U]
 [*]H/W keys customisation.
@@ -117,7 +118,7 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Doubletap or longpress power to toggle flashlight.
 [*]DU Font Engine.
 [*]Ability to restrict app data/wifi usage.
-[*]Full Nav gesture.
+[*]Aggressive Battery feature.
 
 Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 
@@ -153,7 +154,8 @@ Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 [B][FONT="Comic Sans MS"]Swapnil Soni[/FONT][/B]  - Web Developer.
 
 [B][U]Special thanks:[/U][/B]
-[B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B]  - Banner Designer(About Superior Section)[/SIZE]
+[B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B]  - Banner Designer(About Superior Section)
+[B][FONT="Comic Sans MS"]Aryanata Andi[/FONT][/B]  - Bootanimation Designer[/SIZE]
 
 [U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U]
 
@@ -195,7 +197,7 @@ As soon as the problem occurs, take a logcat!
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] Stable
 [B]Current Stable Version:[/B] Nemesis
-[B]Stable Release Date:[/B] 20xx-xx-xx
+[B]Stable Release Date:[/B] 2019-04-16
 
 [B]Created[/B] 20xx-xx-xx
 [B]Last Updated[/B] 20xx-xx-xx
