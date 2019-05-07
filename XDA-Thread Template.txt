@@ -58,7 +58,8 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]QS Header Styles.
 [*]QS Tile Style.
 [*]Running services icon toggle.
-[*]QS brightness buttons options
+[*]QS brightness buttons options.
+[*]Smart Pulldown.
 
 [U][B]Animations:[/B][/U]
 [*]Toast Animations.
@@ -70,6 +71,8 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Permanately Hide apps.
 [*]Choose Recent Styles.
 [*]Slim Recent.
+[*]Recents Clear All Button (For Oreo style).
+[*]Memorybar to recents (For Oreo Style).
 
 [U][B]LOCKSCREEN:[/B][/U]
 [*]Double-tap to sleep.
@@ -197,7 +200,7 @@ As soon as the problem occurs, take a logcat!
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] Stable
 [B]Current Stable Version:[/B] Nemesis
-[B]Stable Release Date:[/B] 2019-04-16
+[B]Stable Release Date:[/B] 2019-05-07
 
 [B]Created[/B] 20xx-xx-xx
 [B]Last Updated[/B] 20xx-xx-xx
