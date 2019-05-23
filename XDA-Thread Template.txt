@@ -42,6 +42,7 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]VoLTE Toggle.
 [*]Option to Display Data Disabled Indicator Icon.
 [*]BatteryBar.
+[*]Option to disable roaming indicator.
 
 [U][B]Navigation Bar:[/B][/U]
 [*]Enable/Disable Navbar.
@@ -60,6 +61,7 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Running services icon toggle.
 [*]QS brightness buttons options.
 [*]Smart Pulldown.
+[*]Allow disabling QS panle on secured lockscreen
 
 [U][B]Animations:[/B][/U]
 [*]Toast Animations.
