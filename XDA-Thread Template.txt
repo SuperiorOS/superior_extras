@@ -202,6 +202,7 @@ As soon as the problem occurs, take a logcat!
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] Stable
 [B]Current Stable Version:[/B] Nemesis
+[B]SELinux Status:[/B]
 [B]Stable Release Date:[/B] 2019-05-07
 
 [B]Created[/B] 20xx-xx-xx
