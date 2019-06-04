@@ -103,6 +103,8 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Incall Vibrations.
 [*]Battery light customization.
 [*]Blink Flashlight on Call.
+[*]Less boring headsup.
+[*]Allow to suppress notifications sound/vibration if screen is On
 
 [U][B]MISC:[/B][/U]
 [*]Three Finger Screenshot.
@@ -110,6 +112,7 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Toast App Icon.
 [*]AppOps.
 [*]Pocket Mode.
+[*]Suspend Actions.
 
 [U][B]Others:[/B][/U]
 [*]Accent Color Manager.
@@ -124,6 +127,8 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]DU Font Engine.
 [*]Ability to restrict app data/wifi usage.
 [*]Aggressive Battery feature.
+[*]Smartcharging.
+[*]LiveDisplay.
 
 Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 
@@ -203,7 +208,7 @@ As soon as the problem occurs, take a logcat!
 [B]Status:[/B] Stable
 [B]Current Stable Version:[/B] Nemesis
 [B]SELinux Status:[/B]
-[B]Stable Release Date:[/B] 2019-05-07
+[B]Stable Release Date:[/B] 2019-06-04
 
 [B]Created[/B] 20xx-xx-xx
 [B]Last Updated[/B] 20xx-xx-xx
