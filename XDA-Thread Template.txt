@@ -43,6 +43,10 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Option to Display Data Disabled Indicator Icon.
 [*]BatteryBar.
 [*]Option to disable roaming indicator.
+[*]Brightness control using Statusbar.
+[*]Switch back to pre P mobile type icon style.
+[*]Rounded corners configuration.
+[*]Notch-city.
 
 [U][B]Navigation Bar:[/B][/U]
 [*]Enable/Disable Navbar.
@@ -61,7 +65,8 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Running services icon toggle.
 [*]QS brightness buttons options.
 [*]Smart Pulldown.
-[*]Allow disabling QS panle on secured lockscreen
+[*]Allow disabling QS panle on secured lockscreen.
+[*]Multiuser switch icon.
 
 [U][B]Animations:[/B][/U]
 [*]Toast Animations.
@@ -91,12 +96,14 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Lockscreen Clock style.
 [*]Lockscreen Font sizes.
 [*]Lockscreen cover art filter.
+[*]Ambiant Visualizer.
 
 [U][B]BUTTONS:[/B][/U]
 [*]H/W keys customisation.
 [*]H/W buttons backlight customisations.
 [*]Volume key cursor control.
 [*]Volume rocker  wake.
+[*]Swap Slider.
 
 [U][B]NOTIFICATIONS:[/B][/U]
 [*]Headsup Customisations.
@@ -113,6 +120,7 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]AppOps.
 [*]Pocket Mode.
 [*]Suspend Actions.
+[*]Gaming mode..
 
 [U][B]Others:[/B][/U]
 [*]Accent Color Manager.
@@ -208,7 +216,7 @@ As soon as the problem occurs, take a logcat!
 [B]Status:[/B] Stable
 [B]Current Stable Version:[/B] Nemesis
 [B]SELinux Status:[/B]
-[B]Stable Release Date:[/B] 2019-06-04
+[B]Stable Release Date:[/B] 2019-08-15
 
 [B]Created[/B] 20xx-xx-xx
 [B]Last Updated[/B] 20xx-xx-xx
