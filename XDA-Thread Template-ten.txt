@@ -36,18 +36,24 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Statusbar icons.
 [*]Traffic indicators.
 [*]4G Icon Instead of LTE.
+[*]VoLTE icon toggle.
+[*]Clock Customisation.
+[*]Battery Customisation.
 
 [U][B]Navigation Bar:[/B][/U]
 [*]Navbar invert layout.
 
 [U][B]QUICK SETTINGS:[/B][/U]
 [*]QS brightness slider position.
+[*]Battery mode selection.
 
 [U][B]LOCKSCREEN:[/B][/U]
 [*]Charging info.
 [*]Fingerprint Authentication Vibration.
 [*]Unlock keystore with fingerprint after reboot.
 [*]Lockscreen Weather.
+[*]Lockscreen visualizer.
+[*]Lockscreen media art and Blur customisation.
 
 [U][B]BUTTONS:[/B][/U]
 [*]H/W keys customisation.
