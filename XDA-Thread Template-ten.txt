@@ -39,13 +39,19 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]VoLTE icon toggle.
 [*]Clock Customisation.
 [*]Battery Customisation.
+[*]Old mobile type indication.
+[*]Statusbar padding preferences.
+[*]Battery percentage while changing.
 
 [U][B]Navigation Bar:[/B][/U]
 [*]Navbar invert layout.
 
 [U][B]QUICK SETTINGS:[/B][/U]
 [*]QS brightness slider position.
-[*]Battery mode selection.
+[*]Battery percentage selection.
+[*]Auto brightness icon toggle.
+[*]Brightness controll buttons.
+[*]Quick pulldown option.
 
 [U][B]LOCKSCREEN:[/B][/U]
 [*]Charging info.
@@ -54,18 +60,23 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Lockscreen Weather.
 [*]Lockscreen visualizer.
 [*]Lockscreen media art and Blur customisation.
+[*]Disable Quick Settings pannel on secure lockscreen.
 
 [U][B]BUTTONS:[/B][/U]
 [*]H/W keys customisation.
 [*]H/W buttons backlight customisations.
 [*]Volume key cursor control.
 [*]Volume rocker  wake.
+[*]Volume key answer option.
 
 [U][B]NOTIFICATIONS:[/B][/U]
 [*]Headsup Customisations.
 [*]Incall Vibrations.
 [*]Battery light customization.
 [*]Notifications light customization.
+[*]Less boring Headsup.
+[*]Headsup snooze & timeout option.
+[*]Pulse ambiant display on new song.
 
 [U][B]MISC:[/B][/U]
 [*]Three Finger Screenshot.
@@ -73,6 +84,7 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 
 [U][B]Others:[/B][/U]
 [*]Doubletap or longpress power to toggle flashlight.
+[*]Vibrate in in-call settings.
 
 Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 
@@ -102,7 +114,8 @@ Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 [B][FONT="Comic Sans MS"]Aryanata Andi[/FONT][/B]
 
 [B][U]Special thanks:[/U][/B]
-[B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B][/SIZE]
+[B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B]
+[B][FONT="Comic Sans MS"]Subins Mani[/FONT][/B][/SIZE]
 
 [U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U]
 
