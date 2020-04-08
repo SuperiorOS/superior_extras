@@ -39,12 +39,14 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]VoLTE icon toggle.
 [*]Clock Customisation.
 [*]Battery Customisation.
+[*]Battery Bar.
 [*]Old mobile type indication.
 [*]Statusbar padding preferences.
 [*]Battery percentage while changing.
 
 [U][B]Navigation Bar:[/B][/U]
 [*]Navbar invert layout.
+[*]Enable/Disable Navbar.
 
 [U][B]QUICK SETTINGS:[/B][/U]
 [*]QS brightness slider position.
@@ -52,6 +54,13 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Auto brightness icon toggle.
 [*]Brightness controll buttons.
 [*]Quick pulldown option.
+[*]Kill app button.
+[*]Vibrate on touch.
+[*]Blur behin QS.
+[*]QS panel Opacity.
+[*]Tint QS toggles.
+[*]Battery Customisation.
+[*]QS Header.
 
 [U][B]LOCKSCREEN:[/B][/U]
 [*]Charging info.
@@ -61,6 +70,7 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Lockscreen visualizer.
 [*]Lockscreen media art and Blur customisation.
 [*]Disable Quick Settings pannel on secure lockscreen.
+[*]Lockscreen charging animation.
 
 [U][B]BUTTONS:[/B][/U]
 [*]H/W keys customisation.
@@ -85,6 +95,8 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [U][B]Others:[/B][/U]
 [*]Doubletap or longpress power to toggle flashlight.
 [*]Vibrate in in-call settings.
+[*]DU themes.
+[*]RGB Accent picker.
 
 Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 
@@ -92,7 +104,7 @@ Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 [SIZE="3"]Download ROM[B]:[URL="https://sourceforge.net/projects/superioros/files/<device name>"]SuperiorOS[/URL][/SIZE][/B]
 
 [SIZE="3"]Download [B]Gapps:[/B]
-[B][URL="https://sourceforge.net/projects/opengapps/files/arm64/beta/20191006/"]OpenGApps[/URL][/B][/SIZE]
+[B][URL="https://opengapps.org/"]OpenGApps[/URL][/B][/SIZE]
 [CENTER]Note : Nano and above Gapps are recommended.[/CENTER]
 
 [IMG]https://github.com/SuperiorOS/superior_extras/blob/master/phoenix/Credits.jpg?raw=true[/IMG]
