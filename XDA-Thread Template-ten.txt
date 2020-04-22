@@ -2,7 +2,7 @@
 [IMG]https://github.com/SuperiorOS/superior_extras/blob/master/phoenix/Phoenix.png?raw=true[/IMG]
 
 [SIZE="5"][B][FONT="Trebuchet MS"]About US:[/B][/SIZE]
-Superior OS is a AOSP based custom ROM with some minimal features to fullfill the users demands nowadays.[/FONT]
+Superior OS is a AOSP based custom ROM with some minimal features to fulfill the users demands nowadays.[/FONT]
 
 [IMG]https://github.com/SuperiorOS/superior_extras/blob/master/phoenix/Disclaimer.jpg?raw=true[/IMG]
 [CODE]
@@ -37,8 +37,8 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Traffic indicators.
 [*]4G Icon Instead of LTE.
 [*]VoLTE icon toggle.
-[*]Clock Customisation.
-[*]Battery Customisation.
+[*]Clock Customization.
+[*]Battery Customization.
 [*]Battery Bar.
 [*]Old mobile type indication.
 [*]Statusbar padding preferences.
@@ -52,14 +52,14 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]QS brightness slider position.
 [*]Battery percentage selection.
 [*]Auto brightness icon toggle.
-[*]Brightness controll buttons.
+[*]Brightness control buttons.
 [*]Quick pulldown option.
 [*]Kill app button.
 [*]Vibrate on touch.
-[*]Blur behin QS.
+[*]Blur behind QS.
 [*]QS panel Opacity.
 [*]Tint QS toggles.
-[*]Battery Customisation.
+[*]Battery Customization.
 [*]QS Header.
 
 [U][B]LOCKSCREEN:[/B][/U]
@@ -68,25 +68,25 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Unlock keystore with fingerprint after reboot.
 [*]Lockscreen Weather.
 [*]Lockscreen visualizer.
-[*]Lockscreen media art and Blur customisation.
-[*]Disable Quick Settings pannel on secure lockscreen.
+[*]Lockscreen media art and Blur customization.
+[*]Disable Quick Settings panel on secure lockscreen.
 [*]Lockscreen charging animation.
 
 [U][B]BUTTONS:[/B][/U]
-[*]H/W keys customisation.
-[*]H/W buttons backlight customisations.
+[*]H/W keys customization.
+[*]H/W buttons backlight customizations.
 [*]Volume key cursor control.
 [*]Volume rocker  wake.
 [*]Volume key answer option.
 
 [U][B]NOTIFICATIONS:[/B][/U]
-[*]Headsup Customisations.
+[*]Headsup Customizations.
 [*]Incall Vibrations.
 [*]Battery light customization.
 [*]Notifications light customization.
 [*]Less boring Headsup.
 [*]Headsup snooze & timeout option.
-[*]Pulse ambiant display on new song.
+[*]Pulse ambient display on new song.
 
 [U][B]MISC:[/B][/U]
 [*]Three Finger Screenshot.
