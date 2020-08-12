@@ -34,6 +34,8 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [HIDE][CODE][LIST]
 [U][B]STATUSBAR:[/B][/U]
 [*]Statusbar icons.
+[*]Carrier label.
+[*]Privacy indicators.
 [*]Traffic indicators.
 [*]4G Icon Instead of LTE.
 [*]VoLTE icon toggle.
@@ -42,11 +44,11 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Battery Bar.
 [*]Old mobile type indication.
 [*]Statusbar padding preferences.
-[*]Battery percentage while changing.
 
 [U][B]Navigation Bar:[/B][/U]
-[*]Navbar invert layout.
 [*]Enable/Disable Navbar.
+[*]Navbar Tuner.
+[*]Navbar pulse/Equalizer.
 
 [U][B]QUICK SETTINGS:[/B][/U]
 [*]QS brightness slider position.
@@ -61,6 +63,8 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Tint QS toggles.
 [*]Battery Customization.
 [*]QS Header.
+[*]OOS styled clear all button.
+[*]Running services icon.
 
 [U][B]LOCKSCREEN:[/B][/U]
 [*]Charging info.
@@ -71,6 +75,8 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [*]Lockscreen media art and Blur customization.
 [*]Disable Quick Settings panel on secure lockscreen.
 [*]Lockscreen charging animation.
+[*]Disable statusbar on lockscreen.
+[*]Hide Lock icon.
 
 [U][B]BUTTONS:[/B][/U]
 [*]H/W keys customization.
@@ -91,6 +97,8 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [U][B]MISC:[/B][/U]
 [*]Three Finger Screenshot.
 [*]Wake on plug.
+[*]Aggressive battery mode.
+[*]Smart Pixels.
 
 [U][B]Others:[/B][/U]
 [*]Doubletap or longpress power to toggle flashlight.
@@ -121,13 +129,14 @@ Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
 [SIZE="4"][B][FONT="Comic Sans MS"]Sipun Ku Mahanta[/FONT][/B]
 [B][FONT="Comic Sans MS"]Jayant Deshmukh[/FONT][/B]
 [B][FONT="Comic Sans MS"]Pavan Patel[/FONT][/B]
-[B][FONT="Comic Sans MS"]Titus Joseph[/FONT][/B]
 [B][FONT="Comic Sans MS"]Swapnil Soni[/FONT][/B]
-[B][FONT="Comic Sans MS"]Aryanata Andi[/FONT][/B]
+[B][FONT="Comic Sans MS"]Subins Mani[/FONT][/B]
+[B][FONT="Comic Sans MS"]Rashed Sahaji[/FONT][/B]
+[B][FONT="Comic Sans MS"]Sreehari Vaasistha[/FONT][/B]
+[B][FONT="Comic Sans MS"]Arun Teltia[/FONT][/B]
 
 [B][U]Special thanks:[/U][/B]
-[B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B]
-[B][FONT="Comic Sans MS"]Subins Mani[/FONT][/B][/SIZE]
+[B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B][/SIZE]
 
 [U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U]
 
