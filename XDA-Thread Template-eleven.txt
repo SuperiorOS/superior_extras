@@ -33,43 +33,59 @@ Note : GApps only has to be flashed once whereas Magisk is to be flashed every t
 [IMG]https://github.com/SuperiorOS/superior_extras/blob/master/phoenix/Features.jpg?raw=true[/IMG]
 [HIDE][CODE][LIST]
 [U][B]STATUSBAR:[/B][/U]
-[*]Statusbar icons.
-[*]Traffic indicators.
 [*]4G Icon Instead of LTE.
+[*]Battery Customization.
+[*]Clock Customization.
+[*]Old mobile type indication.
+[*]Roaming indicator.
+[*]Superior logo on status bar.
+[*]Traffic indicators.
 [*]VoLTE icon toggle.
 [*]VoLTE & VoWiFi icon styles.
-[*]Clock Customization.
-[*]Battery Customization.
-[*]Old mobile type indication.
 
 [U][B]Navigation Bar:[/B][/U]
 [*]Enable/Disable Navbar.
 [*]Navbar Tuner.
 
 [U][B]QUICK SETTINGS:[/B][/U]
-[*]QS brightness slider position.
-[*]Battery percentage selection.
 [*]Auto brightness icon toggle.
+[*]Battery percentage selection.
 [*]Brightness control buttons.
+[*]Data usage.
+[*]Notification header toggle.
+[*]QS footer text.
+[*]QS tile tint customisations.
+[*]QS brightness slider position.
 [*]Quick pulldown option.
 [*]Vibrate on touch.
+
+[U][B]GESTURES:[/B][/U]
+[*]Double tap to sleep.
+[*] Extended swipe gesture.
+[*]Gesture bar radius & length controls.
+[*]Quick open camera.
+[*]Screen off power button torch.
+[*]Skip music tracks.
 
 [U][B]LOCKSCREEN:[/B][/U]
 [*]Charging info.
 [*]Fingerprint Authentication Vibration.
+[*]Lock screen clocks.
 
 [U][B]BUTTONS:[/B][/U]
 [*]H/W keys customization.
 [*]H/W buttons backlight customizations.
 [*]Volume rocker  wake.
+[*]Volume panel location.
 
 [U][B]NOTIFICATIONS:[/B][/U]
-[*]Incall Vibrations.
+[*]Ambient display customizations.
 [*]Battery light customizations.
-[*]Notifications light customizations.
-[*]Less boring Headsup.
+[*]Edge light.
 [*]Headsup snooze & timeout option.
-[*]Ambient display customizations .
+[*]Incall Vibrations.
+[*]Less boring Headsup.
+[*]Notifications light customizations.
 
 [U][B]MISC:[/B][/U]
 [*]Three Finger Screenshot.
