@@ -76,7 +76,7 @@ Stay Tuned!![/CODE][/HIDE]
 
 [SIZE="3"]Download [B]Gapps:[/B]
 [B][URL="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"]NikGApps[/URL][/B][/SIZE]
-[CENTER]Note : Basic version recommended.[/CENTER]
+[CENTER]Note : Core version recommended.[/CENTER]
 
 [IMG]https://github.com/SuperiorOS/superior_extras/blob/master/twelve/Credits.png?raw=true[/IMG]
 [SIZE="4"][B]SuperiorOS Core Team
@@ -84,8 +84,7 @@ Stay Tuned!![/CODE][/HIDE]
 [FONT="Comic Sans MS"]Lineage OS[/FONT]
 [FONT="Comic Sans MS"]AospExtended[/FONT]
 [FONT="Comic Sans MS"]PixelExperience[/FONT]
-[FONT="Comic Sans MS"]Syberia OS[/FONT]
-[FONT="Comic Sans MS"]Nitrogen OS[/FONT] 
+[FONT="Comic Sans MS"]Arrow OS[/FONT]
 [FONT="Comic Sans MS"]Pixys OS[/FONT][/B][/SIZE]
 
 [IMG]https://github.com/SuperiorOS/superior_extras/blob/master/twelve/Team.png?raw=true[/IMG]
@@ -96,9 +95,9 @@ Stay Tuned!![/CODE][/HIDE]
 [B][FONT="Comic Sans MS"]Arun Teltia[/FONT][/B]
 
 [B][U]Special thanks[/U][/B]
-[B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B][/SIZE]
+[B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B]
 [B][FONT="Comic Sans MS"]Pavan Patel[/FONT][/B]
-[B][FONT="Comic Sans MS"]Ionut Iacob[/FONT][/B]
+[B][FONT="Comic Sans MS"]Ionut Iacob[/FONT][/B][/SIZE]
 
 [IMG]https://github.com/SuperiorOS/superior_extras/blob/master/twelve/Donate.png?raw=true[/IMG]
 [URL="https://www.paypal.me/Sipun"][IMG]https://raw.githubusercontent.com/SuperiorOS/superior_extras/master/img/cash.png[/IMG][/URL]
@@ -119,7 +118,7 @@ As soon as the problem occurs, take a logcat!
 [URL="http://telegra.ph/Logcats-are-important-03-01"]for more READ THIS[/URL][/CENTER]
 
 [B][U][SIZE="4"]XDA Information[/SIZE][/U][/B]
-[SIZE="3"][B]SuperiorOS, ROM for the *Your Device*[/B][/SIZE]
+[B]SuperiorOS, ROM for the *Your Device*[/B]
 [B]SuperiorOS Version Name:[/B] Twelve
 [B]Device:[/B] *Your Device
 [B]Maintainer:[/B] *Your Name*
