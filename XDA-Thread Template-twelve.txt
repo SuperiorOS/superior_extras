@@ -31,22 +31,39 @@ Note : Don't flash GApps and Magisk again.
 
 [IMG]https://github.com/SuperiorOS/superior_extras/blob/master/twelve/Features.png?raw=true[/IMG]
 [HIDE][CODE]
+THEMING
+- Black theme.
+- Custom accent picker.
+- Headline/body Fonts.
+- Icon packs.
+- Icon shapes.
+- Monet customizations.
+- Statusbar icons.
+- WiFi icons.
+
 STATUSBAR
 - 4G Icon Instead of LTE.
+- Battery styles.
+- Combined signal icons.
+- Colored notification icons.
 - Old mobile type indication.
+- Statusbar icon tuner.
 - Traffic indicators.
 - VoLTE icon toggle.
 
 NAVIGATION BAR
-- System navigation
+- Extended swipe actions.
+- Haptic feedback toggle for back gesture.
+- System navigation.
 
 QUICK SETTINGS
+- Brightness slider positions.
 - Quick pulldown option.
 - Vibrate on touch.
 
 GESTURES
+- Statusbar brightness swipe control.
 - Double tap to sleep.
-- Extended swipe gesture.
 - Quick open camera.
 - One handed mode.
 - Power button press and hold gesture.
@@ -60,12 +77,19 @@ BUTTONS
 - Volume rocker  wake.
 
 NOTIFICATIONS
+- Heads-up options.
 - Incall Vibrations.
+- Notification header.
 - Toast app icon.
 
 POWER MENU
 - Advanced Reboot.
 - Power menu items.
+
+LOCK SCREEN
+- Charging info.
+- Small clock toggle.
+- Media art as background.
 
 Lots more coming soon !
 Stay Tuned!![/CODE][/HIDE]
